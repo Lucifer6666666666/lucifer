@@ -1,0 +1,6 @@
+1) Taking Input and validation task is done in "Input.py" file . 
+2) Conversion of Decimal number to binary is done in "Conversion.py" file .
+3) Taking input of binary number of Conversion.py and  its addition is done in "Module.py" file.
+4) Working mechanism of Input.py,Conversion.py,Module.py and implementation of loop is in "RUN.py" file.
+
+
